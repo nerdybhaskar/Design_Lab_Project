@@ -8,9 +8,9 @@
 
 	<ul>
 		<li><a href="index.php"> <img style="float: left;" id="logo" src="images/logo.png"> </a></li>
-		<li style=" background-color: #DC143C;"><a id="nav" href="index.php"> Home </a> </li>
+		<li><a id="nav" href="index.php"> Home </a> </li>
 		<li><a id="nav" href="about.php"> About </a> </li>
-		<li><a id="nav" href="songs.php"> Songs </a> </li>
+		<li style=" background-color: #DC143C;"> <a id="nav" href="songs.php"> Songs </a> </li>
 		<li><a id="nav" href="contact.php"> Contact Us </a> </li>
 		<li style="float: right;"><a id="nav" href="login.php"> Login/Sign Up </a> </li> 
 	</ul>
